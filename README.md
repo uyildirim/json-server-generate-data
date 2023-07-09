@@ -8,5 +8,5 @@ npm install
 npm start
 ```
 
-### localhost:3001
+### localhost:8000
 
