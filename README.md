@@ -1,6 +1,12 @@
 # Json server kullanarak fake data üretici
 
-### npm install
-### npm start ile direk çalıştırılabilir.
+```sh
+npm install
+ ```
+### Start ile direk çalıştırılabilir.
+```sh
+npm start
+```
 
 ### localhost:3001
+
